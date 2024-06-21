@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Wade",
+    "age": 80,
+    "address": {
+        "street": "Williams Valley",
+        "city": "Port Kevinborough",
+        "state": "North Carolina",
+        "zip": "99433"
+    },
+    "contact": {
+        "phone": "001-505-896-1597x588",
+        "servicePhone": "800287387"
+    },
+    "birthday": "1945-15-03",
+    "ip": "110.163.249.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Region wonder draw. Push situation door particular line.\nStructure guess picture move. Bit most move.",
+        "bio": "Hold western and question recognize prevent. Way fight follow operation four woman design."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}

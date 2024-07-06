@@ -1,0 +1,25 @@
+{
+    "name": "Sara Hayes",
+    "age": 89,
+    "address": {
+        "street": "Timothy Orchard",
+        "city": "Port Elizabeth",
+        "state": "Minnesota",
+        "zip": "91397"
+    },
+    "contact": {
+        "phone": "829.809.5033x20241",
+        "servicePhone": "800972036"
+    },
+    "birthday": "1936-24-11",
+    "ip": "13.250.98.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Daughter chair likely force book. Clear seven others note. Mind certain success front certain box.",
+        "bio": "Education tell again stuff whole sure area. Field political likely purpose discussion. Happy themselves soon ready. Each local lay where."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}

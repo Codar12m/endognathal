@@ -1,0 +1,25 @@
+{
+    "name": "Dana Smith",
+    "age": 2,
+    "address": {
+        "street": "Richard Branch",
+        "city": "Johnland",
+        "state": "New Mexico",
+        "zip": "37459"
+    },
+    "contact": {
+        "phone": "+1-973-955-9949",
+        "servicePhone": "800603676"
+    },
+    "birthday": "2023-10-01",
+    "ip": "192.168.128.89",
+    "foo": "bar",
+    "profile": {
+        "about": "Performance such well civil. So success international choose seem current.\nLevel claim director wear white natural. Four then case. No different interest analysis how name firm candidate.",
+        "bio": "Issue outside each role. Sit serious eight argue."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}

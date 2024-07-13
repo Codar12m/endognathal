@@ -1,0 +1,25 @@
+{
+    "name": "Julie Choi",
+    "age": 28,
+    "address": {
+        "street": "Campbell Estate",
+        "city": "Port Karlville",
+        "state": "Minnesota",
+        "zip": "75315"
+    },
+    "contact": {
+        "phone": "001-443-772-5212",
+        "servicePhone": "800224076"
+    },
+    "birthday": "1997-21-12",
+    "ip": "16.100.24.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Their sign number miss stay. Everything kind together begin century analysis window.\nOut charge full fast above class. That apply at western heavy structure. Together able outside property.",
+        "bio": "Brother action nothing usually support small increase. Tree whether show style really.\nHusband individual tend approach loss. Article theory head take lawyer anything give. Into ever look account."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Shields",
+    "age": 111,
+    "address": {
+        "street": "Mitchell Field",
+        "city": "East Ronaldburgh",
+        "state": "Utah",
+        "zip": "48198"
+    },
+    "contact": {
+        "phone": "726.368.2021x5913",
+        "servicePhone": "800687948"
+    },
+    "birthday": "1914-30-12",
+    "ip": "107.207.161.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Course site lay wife against. Fear herself early name nation green these bill.\nAgo agree because laugh hard appear sign. President those fall parent exist.",
+        "bio": "Join method however benefit suffer whose clearly like. Middle bed wrong. Year window important almost may loss me. South tonight seat."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}

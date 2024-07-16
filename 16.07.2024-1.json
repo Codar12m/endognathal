@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Green",
+    "age": 6,
+    "address": {
+        "street": "Lisa Flats",
+        "city": "Leemouth",
+        "state": "Vermont",
+        "zip": "66032"
+    },
+    "contact": {
+        "phone": "(520)371-2795x6707",
+        "servicePhone": "800220598"
+    },
+    "birthday": "2019-25-10",
+    "ip": "122.92.144.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Sort deal this base identify. Part her go boy.\nNetwork son bank available need. Prepare large option I. Break anything yes onto safe daughter brother.",
+        "bio": "Main it particular. Receive health school really rather quickly despite rise. Structure place allow want bar student space. Population factor gas wall."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}

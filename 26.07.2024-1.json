@@ -1,0 +1,25 @@
+{
+    "name": "Jaime Castro",
+    "age": 102,
+    "address": {
+        "street": "Ryan Mall",
+        "city": "Herreraville",
+        "state": "Delaware",
+        "zip": "79010"
+    },
+    "contact": {
+        "phone": "688-602-3519",
+        "servicePhone": "800124611"
+    },
+    "birthday": "1923-21-08",
+    "ip": "152.92.90.124",
+    "foo": "bar",
+    "profile": {
+        "about": "History character understand various education. She film sell bit marriage town.",
+        "bio": "Only cover threat place suddenly those. Central mention recent beat against three modern Republican.\nDiscussion down purpose inside quickly. Take together of market."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}

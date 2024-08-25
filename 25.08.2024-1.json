@@ -1,0 +1,25 @@
+{
+    "name": "Brian Davis",
+    "age": 92,
+    "address": {
+        "street": "Angela Estate",
+        "city": "Robertville",
+        "state": "Montana",
+        "zip": "65727"
+    },
+    "contact": {
+        "phone": "687-355-2015x47905",
+        "servicePhone": "800796480"
+    },
+    "birthday": "1933-29-03",
+    "ip": "72.74.131.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Firm method star be. Bill news pass theory. Apply something forward business all offer right.\nPresent big situation. Describe attack can early when probably interesting.",
+        "bio": "Detail sort detail bad. Network discuss those young daughter beautiful. Forward find skin list say various.\nArm return my politics ground PM. Rise remain pressure behind."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}

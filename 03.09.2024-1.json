@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Kathy Austin",
+    "age": 7,
+    "address": {
+        "street": "Nelson Square",
+        "city": "Audreyville",
+        "state": "Minnesota",
+        "zip": "53353"
+    },
+    "contact": {
+        "phone": "(946)544-2990x323",
+        "servicePhone": "800959148"
+    },
+    "birthday": "2018-15-11",
+    "ip": "74.22.193.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Administration life like situation. Describe car indicate own even win bad international.",
+        "bio": "Three board factor enjoy get eye party office. Industry mouth idea night beautiful travel produce. Magazine when source rise son must travel."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}

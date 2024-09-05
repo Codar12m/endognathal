@@ -1,0 +1,25 @@
+{
+    "name": "Brian Jackson",
+    "age": 84,
+    "address": {
+        "street": "Melton Ways",
+        "city": "Petersonville",
+        "state": "Illinois",
+        "zip": "48934"
+    },
+    "contact": {
+        "phone": "509-285-6529x4973",
+        "servicePhone": "800857069"
+    },
+    "birthday": "1941-16-05",
+    "ip": "68.23.43.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Bad site all point smile painting. Represent almost use pass ground art during economic.",
+        "bio": "Interview word to hotel rate writer issue. Not adult difficult front. And feeling argue safe money fish.\nChance thousand single possible system. Material country chair fact pass apply."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}

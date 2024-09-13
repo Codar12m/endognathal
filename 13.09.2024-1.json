@@ -1,0 +1,25 @@
+{
+    "name": "Benjamin Roy",
+    "age": 91,
+    "address": {
+        "street": "Stacy Mountains",
+        "city": "Jamieton",
+        "state": "Massachusetts",
+        "zip": "99859"
+    },
+    "contact": {
+        "phone": "2739180703",
+        "servicePhone": "800590698"
+    },
+    "birthday": "1934-09-08",
+    "ip": "79.53.45.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Would phone address reveal item seem. Whose environmental quickly a guess.\nUnderstand water risk health. Future remember interesting.",
+        "bio": "Concern myself large dog. Purpose well public describe course lot together.\nFormer spend together address fast hotel. Speak find book including."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}

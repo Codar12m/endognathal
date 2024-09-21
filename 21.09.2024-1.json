@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Fields",
+    "age": 5,
+    "address": {
+        "street": "Davis Streets",
+        "city": "North Keithton",
+        "state": "Arizona",
+        "zip": "63441"
+    },
+    "contact": {
+        "phone": "369-682-1179x3632",
+        "servicePhone": "800945966"
+    },
+    "birthday": "2020-11-09",
+    "ip": "182.39.219.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Stay myself value book. Along data break argue born. Field base carry.\nBecause plan there special who purpose. Plant morning tree its he specific.",
+        "bio": "Customer daughter million evidence baby. Issue small fly.\nSort own central theory. Use must when by personal suggest. Movie moment color figure heart up."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}

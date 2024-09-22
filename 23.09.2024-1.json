@@ -1,0 +1,25 @@
+{
+    "name": "Jason Price",
+    "age": 101,
+    "address": {
+        "street": "Young Pike",
+        "city": "Port Kevinside",
+        "state": "Wisconsin",
+        "zip": "47938"
+    },
+    "contact": {
+        "phone": "773-943-6427",
+        "servicePhone": "800925250"
+    },
+    "birthday": "1924-07-05",
+    "ip": "183.100.155.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Move point because increase who name size. Option rest pressure school station from customer. Always mission road business to run.",
+        "bio": "Themselves network office artist factor.\nAvoid however system mention usually enter. Ten strong necessary.\nRich tax nearly culture it and. Hair campaign campaign throw help. Will work heavy."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}

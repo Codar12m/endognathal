@@ -1,0 +1,25 @@
+{
+    "name": "Robert Roberts",
+    "age": 80,
+    "address": {
+        "street": "Phillips Forks",
+        "city": "Sheilafort",
+        "state": "Rhode Island",
+        "zip": "35657"
+    },
+    "contact": {
+        "phone": "425.295.8047x59655",
+        "servicePhone": "800111852"
+    },
+    "birthday": "1945-03-11",
+    "ip": "119.175.111.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Work guy that. Ahead responsibility fight particular bag.\nArtist deep information. Reach red itself field southern note wait. Analysis full financial do strategy prove anything.",
+        "bio": "Detail lawyer project I will adult experience. Can performance lawyer once it develop adult. Much last science international produce involve population."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}

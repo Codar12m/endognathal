@@ -1,0 +1,25 @@
+{
+    "name": "Jay Martin",
+    "age": 76,
+    "address": {
+        "street": "Karen Springs",
+        "city": "Port Cynthia",
+        "state": "Delaware",
+        "zip": "26526"
+    },
+    "contact": {
+        "phone": "(369)555-2475x8320",
+        "servicePhone": "800806517"
+    },
+    "birthday": "1949-23-06",
+    "ip": "1.198.163.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Stay most better myself. Yes according sure little see pull maintain.\nIndividual pay whether economy note certainly local.\nEconomy stock imagine avoid stay race. Down father involve herself control.",
+        "bio": "Plan hope huge. Affect during garden word bag focus pay specific. Deep lose young to.\nOnce land whole. Only strong stage yard test animal."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}

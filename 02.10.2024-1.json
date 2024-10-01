@@ -1,0 +1,25 @@
+{
+    "name": "Bryan Clark",
+    "age": 84,
+    "address": {
+        "street": "Robert Point",
+        "city": "West Ericafurt",
+        "state": "New Hampshire",
+        "zip": "75259"
+    },
+    "contact": {
+        "phone": "+1-747-782-4658",
+        "servicePhone": "800896776"
+    },
+    "birthday": "1941-02-01",
+    "ip": "74.225.181.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Three work stop nor.\nAttack prepare religious. Education possible center around ahead other worker.",
+        "bio": "Large cup first picture. Similar music partner daughter. Maybe sister peace article show strong manage site."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}

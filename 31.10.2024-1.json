@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Bautista",
+    "age": 113,
+    "address": {
+        "street": "Walton Forest",
+        "city": "South Linda",
+        "state": "Arkansas",
+        "zip": "85089"
+    },
+    "contact": {
+        "phone": "+1-811-540-9953x00056",
+        "servicePhone": "800462088"
+    },
+    "birthday": "1912-05-01",
+    "ip": "183.108.136.248",
+    "foo": "bar",
+    "profile": {
+        "about": "Exist way baby I want. Firm fly camera southern. Picture support special message page year argue.",
+        "bio": "Measure land agency together. Poor above nature less.\nVoice pull hour. Happy everything work study discuss smile. Side seat ahead dark stage."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}

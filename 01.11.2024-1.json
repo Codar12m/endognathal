@@ -1,0 +1,25 @@
+{
+    "name": "Phyllis Holland",
+    "age": 47,
+    "address": {
+        "street": "Wright Cliffs",
+        "city": "South Benjamin",
+        "state": "Florida",
+        "zip": "73329"
+    },
+    "contact": {
+        "phone": "(888)745-2434x54182",
+        "servicePhone": "800945684"
+    },
+    "birthday": "1978-06-05",
+    "ip": "8.144.135.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Side watch church of effect agree. Play manage night one collection opportunity notice. Discuss single energy.",
+        "bio": "Capital eight name whom. Sound western why protect today school threat.\nOnly policy turn man. Point possible thought great base. List project family."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}

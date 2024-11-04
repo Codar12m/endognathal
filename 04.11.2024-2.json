@@ -1,0 +1,25 @@
+{
+    "name": "Denise Wilson",
+    "age": 36,
+    "address": {
+        "street": "Scott Turnpike",
+        "city": "North Henry",
+        "state": "Massachusetts",
+        "zip": "16082"
+    },
+    "contact": {
+        "phone": "001-606-653-5138x992",
+        "servicePhone": "800418276"
+    },
+    "birthday": "1989-12-08",
+    "ip": "56.103.166.123",
+    "foo": "bar",
+    "profile": {
+        "about": "Happen common under local. Effort away car man piece bar even time. Police citizen blood factor over.",
+        "bio": "Eat travel ball traditional mission chair record. Final project fight hope outside learn. Hit begin despite cost interesting ground."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}

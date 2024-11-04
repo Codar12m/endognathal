@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Fleming",
+    "age": 53,
+    "address": {
+        "street": "Weiss Wells",
+        "city": "South Robert",
+        "state": "New Jersey",
+        "zip": "82993"
+    },
+    "contact": {
+        "phone": "+1-447-499-0210x763",
+        "servicePhone": "800276476"
+    },
+    "birthday": "1972-04-08",
+    "ip": "29.162.191.35",
+    "foo": "bar",
+    "profile": {
+        "about": "Third hear institution position explain. Difficult shake radio.",
+        "bio": "Page billion whether goal fast billion truth. Future perhaps thing really office others. Blue front step.\nLaw official bed less down. Cultural west you grow between."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}

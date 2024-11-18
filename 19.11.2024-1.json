@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Morales",
+    "age": 60,
+    "address": {
+        "street": "Martinez Roads",
+        "city": "Debbieport",
+        "state": "Nebraska",
+        "zip": "93506"
+    },
+    "contact": {
+        "phone": "(580)944-4175x37771",
+        "servicePhone": "800788255"
+    },
+    "birthday": "1965-03-10",
+    "ip": "178.129.184.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Rich how pull guy interesting. Order above group carry conference poor response. Child gun first choice career key cost.",
+        "bio": "Speak new southern material live animal. Gun federal approach require near experience box."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}

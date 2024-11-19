@@ -1,0 +1,25 @@
+{
+    "name": "Jerome Franklin",
+    "age": 36,
+    "address": {
+        "street": "Lopez Flat",
+        "city": "Matthewshire",
+        "state": "Missouri",
+        "zip": "70303"
+    },
+    "contact": {
+        "phone": "001-511-272-7321x7165",
+        "servicePhone": "800756996"
+    },
+    "birthday": "1989-28-06",
+    "ip": "58.193.144.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Late arm specific effect both bag laugh. Seek church agency upon prevent enter price continue.",
+        "bio": "Activity door policy high two moment seat. Ground project daughter imagine.\nUntil ability remain. Find product director one onto. Arm loss follow bad skill analysis."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}

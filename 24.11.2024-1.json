@@ -1,0 +1,25 @@
+{
+    "name": "Denise Edwards",
+    "age": 4,
+    "address": {
+        "street": "Jones Estates",
+        "city": "South Alexandra",
+        "state": "Utah",
+        "zip": "47008"
+    },
+    "contact": {
+        "phone": "+1-737-735-0264",
+        "servicePhone": "800105589"
+    },
+    "birthday": "2021-16-10",
+    "ip": "59.105.3.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Sea American possible pull decade.\nFive spend size road since. Participant choice movie we feeling oil. International rich present others.",
+        "bio": "House music purpose. Safe strong pay question. Always away product economic father far big.\nFactor seven second although window TV toward laugh. Specific note black edge tax say."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}

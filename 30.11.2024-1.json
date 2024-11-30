@@ -1,0 +1,25 @@
+{
+    "name": "Dennis Rivera",
+    "age": 56,
+    "address": {
+        "street": "Brittany Trace",
+        "city": "Port Michaelton",
+        "state": "Louisiana",
+        "zip": "24255"
+    },
+    "contact": {
+        "phone": "583-727-0525x7455",
+        "servicePhone": "800381742"
+    },
+    "birthday": "1969-08-10",
+    "ip": "108.37.163.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Bed then former will whose. Style do owner manager we space. Music stay discuss decide project somebody.\nWatch push democratic ground without size.",
+        "bio": "But consider line arrive contain artist tend. Minute let others low radio whom.\nBill clear voice theory wrong decade real camera."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}

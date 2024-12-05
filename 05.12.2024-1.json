@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Ford",
+    "age": 94,
+    "address": {
+        "street": "Frazier Stravenue",
+        "city": "Jessicachester",
+        "state": "Washington",
+        "zip": "30555"
+    },
+    "contact": {
+        "phone": "303-753-6227x0118",
+        "servicePhone": "800432985"
+    },
+    "birthday": "1931-27-04",
+    "ip": "36.65.79.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Modern adult accept every choice drop shake.\nIssue power prove collection event eat. Meeting concern size similar. Believe shoulder number while special.\nFederal see five century floor still term.",
+        "bio": "On four carry card show deal. Forward really weight board business fast."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}

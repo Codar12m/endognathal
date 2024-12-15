@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Jones",
+    "age": 101,
+    "address": {
+        "street": "Davis Forge",
+        "city": "South William",
+        "state": "South Dakota",
+        "zip": "36094"
+    },
+    "contact": {
+        "phone": "993.592.4690x407",
+        "servicePhone": "800331552"
+    },
+    "birthday": "1924-29-01",
+    "ip": "197.231.239.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Piece fine yes could talk. Street statement positive think event professor. Defense return travel mention future. Time want give.\nCertainly decide off pattern never. Everything mother mention.",
+        "bio": "Civil none peace film. Rock boy whole meet Democrat surface. Else short public statement. Issue involve me national when."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}

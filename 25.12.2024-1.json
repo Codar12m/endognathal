@@ -1,0 +1,25 @@
+{
+    "name": "Jeffery Riley",
+    "age": 105,
+    "address": {
+        "street": "Amy Bridge",
+        "city": "East Jeffrey",
+        "state": "New Hampshire",
+        "zip": "45092"
+    },
+    "contact": {
+        "phone": "001-928-711-5938x280",
+        "servicePhone": "800567033"
+    },
+    "birthday": "1920-10-03",
+    "ip": "204.168.241.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Mission teacher style report. Itself bag agree young its market. Boy while grow put technology.\nUpon medical admit doctor heavy under. Key which need organization western.",
+        "bio": "Worker senior recognize. Bring event could step song whom political. Television for beyond stock.\nSociety century teach school. Air idea side onto hope. Throughout east kind class answer century."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}

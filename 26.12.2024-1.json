@@ -1,0 +1,25 @@
+{
+    "name": "Michael Brown",
+    "age": 76,
+    "address": {
+        "street": "Michelle Skyway",
+        "city": "Jacksonbury",
+        "state": "North Dakota",
+        "zip": "55130"
+    },
+    "contact": {
+        "phone": "001-407-520-3571x680",
+        "servicePhone": "800566806"
+    },
+    "birthday": "1949-19-02",
+    "ip": "199.90.241.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Eight media energy throw politics play myself security.\nVery foot short themselves safe fish accept. Debate example still risk bill guy score. Spring book talk yourself common.",
+        "bio": "Quickly step recently peace. Participant necessary whether range mention soldier may."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Brittney Smith",
+    "age": 111,
+    "address": {
+        "street": "Fox Crest",
+        "city": "Cainburgh",
+        "state": "West Virginia",
+        "zip": "66706"
+    },
+    "contact": {
+        "phone": "601-869-3479x94443",
+        "servicePhone": "800247627"
+    },
+    "birthday": "1914-16-03",
+    "ip": "40.65.155.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Town mission kid leg hard. Federal maybe compare write. Serious foreign could design teacher beyond.",
+        "bio": "Weight dog house available continue film. Light officer hospital. Tree year individual camera along.\nEye state know recent. Some model team heavy power. Grow piece western focus pay."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}

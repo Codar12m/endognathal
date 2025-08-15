@@ -1,0 +1,25 @@
+{
+    "name": "Amber Green",
+    "age": 95,
+    "address": {
+        "street": "Rebekah Village",
+        "city": "Port Deannabury",
+        "state": "New Jersey",
+        "zip": "50576"
+    },
+    "contact": {
+        "phone": "628-527-9693",
+        "servicePhone": "800455310"
+    },
+    "birthday": "1930-24-04",
+    "ip": "91.34.110.97",
+    "foo": "bar",
+    "profile": {
+        "about": "National challenge particular hope reflect. Better sit relate visit age important ask without. Happy fund improve new coach within.",
+        "bio": "Grow bill bill window avoid who shake. Kind ask out you. Feel need someone how force finally result.\nApply shake drug any blood she medical. Figure give can face air reduce. Front six another but."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}

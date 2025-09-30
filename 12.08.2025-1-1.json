@@ -1,0 +1,25 @@
+{
+    "name": "Michael Jacobs",
+    "age": 102,
+    "address": {
+        "street": "Ochoa Manor",
+        "city": "South James",
+        "state": "Vermont",
+        "zip": "69202"
+    },
+    "contact": {
+        "phone": "(970)750-6438",
+        "servicePhone": "800617917"
+    },
+    "birthday": "1923-18-08",
+    "ip": "208.194.165.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Place simply ahead other left.\nMay during strong worry. Drop wrong social relate understand if amount.\nNear TV beat quite job. True yes capital sound former.",
+        "bio": "Stay place suddenly billion. Growth fear try skin clearly that.\nNecessary might whatever else score. Notice reveal development middle other together everybody effort."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}

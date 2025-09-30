@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Chan",
+    "age": 103,
+    "address": {
+        "street": "Steven Cape",
+        "city": "Port Shannonbury",
+        "state": "New York",
+        "zip": "21978"
+    },
+    "contact": {
+        "phone": "+1-987-428-3426x75277",
+        "servicePhone": "800160664"
+    },
+    "birthday": "1922-30-12",
+    "ip": "72.98.63.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Pressure science student upon room sing amount. Stay dream need thing.\nSort whether best within per size reality glass. Standard out nothing year kitchen.",
+        "bio": "True should table really part reduce. Economic increase key behind. Board grow tough somebody military system."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}

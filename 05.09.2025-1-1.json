@@ -1,0 +1,25 @@
+{
+    "name": "Catherine Martinez",
+    "age": 108,
+    "address": {
+        "street": "Lowe Fork",
+        "city": "Sherrymouth",
+        "state": "Montana",
+        "zip": "27540"
+    },
+    "contact": {
+        "phone": "001-649-539-3863",
+        "servicePhone": "800370441"
+    },
+    "birthday": "1917-16-05",
+    "ip": "211.36.46.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Ground break plan amount. Situation especially resource job. Rock remember your respond it big theory move.",
+        "bio": "Phone public only take could. Join note direction share often chance. Character control ability building interview."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}

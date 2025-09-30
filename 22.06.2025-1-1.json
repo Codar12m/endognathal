@@ -1,0 +1,25 @@
+{
+    "name": "Sheena Boone",
+    "age": 25,
+    "address": {
+        "street": "Riggs Flat",
+        "city": "Keithfurt",
+        "state": "Mississippi",
+        "zip": "79481"
+    },
+    "contact": {
+        "phone": "+1-808-499-0261x9706",
+        "servicePhone": "800731597"
+    },
+    "birthday": "2000-28-11",
+    "ip": "39.105.41.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Process likely thought international. Movie culture management important more left. Perform treatment office.",
+        "bio": "Throw third old model.\nMiddle clear check voice control executive. Fight interest trouble company necessary practice. Several upon leave opportunity."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}

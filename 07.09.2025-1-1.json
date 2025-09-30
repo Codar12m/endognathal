@@ -1,0 +1,25 @@
+{
+    "name": "Lindsay Stewart",
+    "age": 12,
+    "address": {
+        "street": "Tracy Falls",
+        "city": "South Kayla",
+        "state": "Vermont",
+        "zip": "49082"
+    },
+    "contact": {
+        "phone": "001-428-207-9755x05135",
+        "servicePhone": "800754084"
+    },
+    "birthday": "2013-05-10",
+    "ip": "84.203.141.254",
+    "foo": "bar",
+    "profile": {
+        "about": "Think item certain relationship short space president. Eat truth least carry lawyer hour.",
+        "bio": "Weight southern near mission difficult. Theory military relationship white success.\nHot similar subject three. Mention report professor address fine boy remain."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}

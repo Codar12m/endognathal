@@ -1,0 +1,25 @@
+{
+    "name": "Chelsea Harris",
+    "age": 31,
+    "address": {
+        "street": "Jeffery Course",
+        "city": "Alanhaven",
+        "state": "South Carolina",
+        "zip": "41230"
+    },
+    "contact": {
+        "phone": "(454)779-9263x3876",
+        "servicePhone": "800391595"
+    },
+    "birthday": "1994-08-12",
+    "ip": "132.214.214.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Campaign difficult international including. Enter nor appear increase clearly physical particularly message. Four color next when teacher. Truth raise speak represent.",
+        "bio": "Sister decade consider TV mention perform analysis people. Early building church third. Lead scientist provide program with."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}

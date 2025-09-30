@@ -1,0 +1,25 @@
+{
+    "name": "Shannon Davis",
+    "age": 49,
+    "address": {
+        "street": "Knapp Manors",
+        "city": "North Patrick",
+        "state": "Iowa",
+        "zip": "72590"
+    },
+    "contact": {
+        "phone": "888-454-4630x5917",
+        "servicePhone": "800854785"
+    },
+    "birthday": "1976-26-04",
+    "ip": "179.220.205.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Risk research skill range treat myself door. Improve accept couple grow view produce heart loss. Positive figure food once since spring life new.\nWrite much car together.",
+        "bio": "Conference easy life allow himself event she. Debate best me close century attorney scene.\nMonth include trade Congress million. Sea method American point participant size her."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Kathryn Jefferson",
+    "age": 28,
+    "address": {
+        "street": "Miles Route",
+        "city": "Wallacetown",
+        "state": "Washington",
+        "zip": "41823"
+    },
+    "contact": {
+        "phone": "(202)513-9051x7782",
+        "servicePhone": "800140940"
+    },
+    "birthday": "1997-12-09",
+    "ip": "76.226.62.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Blue I customer idea. Hundred American during south likely mouth hour. Thousand voice current build matter. For easy art coach blood Democrat.",
+        "bio": "Girl strong camera. Station rich cell teacher door oil member on. General form sign college entire fear language project."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}

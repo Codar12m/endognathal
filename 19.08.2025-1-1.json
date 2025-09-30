@@ -1,0 +1,25 @@
+{
+    "name": "Dakota Hunter",
+    "age": 102,
+    "address": {
+        "street": "Sharp Greens",
+        "city": "Gonzalezbury",
+        "state": "Washington",
+        "zip": "86116"
+    },
+    "contact": {
+        "phone": "519.446.2192x1439",
+        "servicePhone": "800969667"
+    },
+    "birthday": "1923-14-09",
+    "ip": "163.44.24.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Old eat prevent pick defense board stay film. Gas herself voice.\nCell evidence rather anyone become second. Pull break law huge watch.",
+        "bio": "Beautiful ground guy down from analysis forget public. Collection street build argue writer."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Johnson",
+    "age": 63,
+    "address": {
+        "street": "Robertson Skyway",
+        "city": "West Raven",
+        "state": "West Virginia",
+        "zip": "26011"
+    },
+    "contact": {
+        "phone": "790.562.1039x4278",
+        "servicePhone": "800882901"
+    },
+    "birthday": "1962-18-04",
+    "ip": "152.227.153.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Need knowledge believe administration past eight. Without medical building yet town.\nSupport learn name. Away couple boy father exactly.",
+        "bio": "Out coach peace director appear free. Life opportunity participant phone part view.\nThrough seek what special serve. Cut carry avoid each almost. Else economy want design."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Corey Garcia",
+    "age": 42,
+    "address": {
+        "street": "Diana Corner",
+        "city": "Mitchellside",
+        "state": "North Carolina",
+        "zip": "70332"
+    },
+    "contact": {
+        "phone": "(621)363-7444x324",
+        "servicePhone": "800155660"
+    },
+    "birthday": "1983-17-01",
+    "ip": "168.224.202.59",
+    "foo": "bar",
+    "profile": {
+        "about": "President bed point control say wait where. Whole foreign open interesting appear case. White goal north me.\nHand inside truth chance set this dream. Although worker past.",
+        "bio": "Southern sea ok process act.\nUse environment early police remember fast week. Much Republican age herself let. Of product ever pass growth unit within. Forget always feel right arrive himself."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}

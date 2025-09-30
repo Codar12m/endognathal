@@ -1,0 +1,25 @@
+{
+    "name": "Victoria Noble",
+    "age": 58,
+    "address": {
+        "street": "Tiffany Club",
+        "city": "Laurenborough",
+        "state": "Colorado",
+        "zip": "87805"
+    },
+    "contact": {
+        "phone": "+1-898-448-2017x285",
+        "servicePhone": "800826635"
+    },
+    "birthday": "1967-14-02",
+    "ip": "187.89.38.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Partner yet whatever market. None clear color morning. Boy scene everybody enough same bring return mention.",
+        "bio": "Final contain must. Summer building east big one. Painting whole special section say continue decade.\nBeyond approach whatever serious. Debate forget community I. Environment five this than learn."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}

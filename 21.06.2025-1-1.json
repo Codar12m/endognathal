@@ -1,0 +1,25 @@
+{
+    "name": "Brianna Williams",
+    "age": 82,
+    "address": {
+        "street": "Russell Mountain",
+        "city": "Orozcofurt",
+        "state": "Colorado",
+        "zip": "53511"
+    },
+    "contact": {
+        "phone": "(488)765-3992x63438",
+        "servicePhone": "800659816"
+    },
+    "birthday": "1943-12-04",
+    "ip": "186.116.155.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Across wide find billion. Table wall show program sound man rate issue. Build TV standard over before charge dog.",
+        "bio": "Marriage central finally any serve water. Teach after argue director service."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}

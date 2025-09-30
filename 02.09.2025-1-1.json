@@ -1,0 +1,25 @@
+{
+    "name": "Mary Clark",
+    "age": 23,
+    "address": {
+        "street": "Brian Cliff",
+        "city": "West Andrewberg",
+        "state": "Arkansas",
+        "zip": "63347"
+    },
+    "contact": {
+        "phone": "001-639-890-9996x5548",
+        "servicePhone": "800984045"
+    },
+    "birthday": "2002-05-02",
+    "ip": "106.122.207.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Two unit sea stock suffer everybody site. President war almost project stop him international drive.\nDesign give quite blue. Point develop sense believe. Media tax relate cause teacher.",
+        "bio": "Reality letter most protect mother yes assume. Before ball air.\nIdea dark course coach. Collection seek protect hard. Music black item.\nAssume parent respond on charge."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}

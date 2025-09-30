@@ -1,0 +1,25 @@
+{
+    "name": "Tara Cook",
+    "age": 9,
+    "address": {
+        "street": "Sheila Centers",
+        "city": "East Shelbystad",
+        "state": "Colorado",
+        "zip": "92320"
+    },
+    "contact": {
+        "phone": "(325)641-9926x6618",
+        "servicePhone": "800904033"
+    },
+    "birthday": "2016-15-10",
+    "ip": "29.134.117.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Somebody threat forget worker. Although off work continue. Water safe phone month think change there.\nLeave moment firm see. Firm peace collection eye.",
+        "bio": "Student degree catch save likely let significant. Prepare body since mean her many.\nMoney still head main. Television writer reason party you item."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}

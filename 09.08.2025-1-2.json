@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Mcdaniel",
+    "age": 25,
+    "address": {
+        "street": "Ronald Port",
+        "city": "Zacharyview",
+        "state": "Minnesota",
+        "zip": "10008"
+    },
+    "contact": {
+        "phone": "209-444-0565",
+        "servicePhone": "800503411"
+    },
+    "birthday": "2000-24-12",
+    "ip": "2.159.178.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Herself herself conference reveal maybe probably commercial. Both table executive expert maintain floor second.",
+        "bio": "And recent Mr morning road trial. Child effect eight point modern glass. Before others simple wall could food.\nFather drop glass cost business. You election middle field often follow simply."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}

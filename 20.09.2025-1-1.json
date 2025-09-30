@@ -1,0 +1,25 @@
+{
+    "name": "Pamela Johnson",
+    "age": 70,
+    "address": {
+        "street": "Paula Crossroad",
+        "city": "Dennisfurt",
+        "state": "North Carolina",
+        "zip": "97595"
+    },
+    "contact": {
+        "phone": "+1-715-752-9712x72563",
+        "servicePhone": "800059664"
+    },
+    "birthday": "1955-30-03",
+    "ip": "9.58.204.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Early you of seven able. Entire spend suggest church free.\nAgo answer lawyer cell. Significant stuff inside serve nation reflect. Tough million light enjoy here buy.",
+        "bio": "Party eight part. Her war modern cover message work. Likely environmental represent cold maybe government money."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}

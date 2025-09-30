@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Decker",
+    "age": 88,
+    "address": {
+        "street": "Aaron Stream",
+        "city": "West Matthew",
+        "state": "Rhode Island",
+        "zip": "93676"
+    },
+    "contact": {
+        "phone": "+1-702-423-1005x3253",
+        "servicePhone": "800158746"
+    },
+    "birthday": "1937-09-06",
+    "ip": "108.3.23.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Professional real someone nation. Note theory responsibility popular figure. About Republican head successful poor.\nFederal put have ground. Moment law send smile look. Provide professor set big.",
+        "bio": "Under believe out management site visit shoulder. Down loss anything blue development investment once. All important must early outside."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
